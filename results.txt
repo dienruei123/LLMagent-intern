@@ -1,0 +1,2857 @@
+
+[MODEL NAME: model_animals_15.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 0.8810
+Test acc: 0.4520
+[True stats]
+F1 Score: 0.4197
+Recall: 0.3191
+Precision: 0.6131
+[False stats]
+F1 Score: 0.4809
+Recall: 0.6699
+Precision: 0.3751
+
+[MODEL NAME: model_animals_19.ckpt]
+[Testing: (boolq, Layer 19)]
+Test loss: 0.8095
+Test acc: 0.5291
+[True stats]
+F1 Score: 0.5962
+Recall: 0.5590
+Precision: 0.6388
+[False stats]
+F1 Score: 0.4351
+Recall: 0.4798
+Precision: 0.3980
+
+[MODEL NAME: model_animals_23.ckpt]
+[Testing: (boolq, Layer 23)]
+Test loss: 0.7885
+Test acc: 0.5211
+[True stats]
+F1 Score: 0.5664
+Recall: 0.5029
+Precision: 0.6483
+[False stats]
+F1 Score: 0.4652
+Recall: 0.5510
+Precision: 0.4025
+
+[MODEL NAME: model_animals_27.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.6817
+Test acc: 0.5740
+[True stats]
+F1 Score: 0.6950
+Recall: 0.7822
+Precision: 0.6253
+[False stats]
+F1 Score: 0.2940
+Recall: 0.2337
+Precision: 0.3962
+
+[MODEL NAME: model_cities_15.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 0.7034
+Test acc: 0.6251
+[True stats]
+F1 Score: 0.7474
+Recall: 0.8932
+Precision: 0.6426
+[False stats]
+F1 Score: 0.2728
+Recall: 0.1856
+Precision: 0.5145
+
+[MODEL NAME: model_cities_19.ckpt]
+[Testing: (boolq, Layer 19)]
+Test loss: 0.7605
+Test acc: 0.5920
+[True stats]
+F1 Score: 0.6708
+Recall: 0.6681
+Precision: 0.6734
+[False stats]
+F1 Score: 0.4638
+Recall: 0.4668
+Precision: 0.4609
+
+[MODEL NAME: model_cities_23.ckpt]
+[Testing: (boolq, Layer 23)]
+Test loss: 0.8303
+Test acc: 0.6226
+[True stats]
+F1 Score: 0.7431
+Recall: 0.8776
+Precision: 0.6444
+[False stats]
+F1 Score: 0.2892
+Recall: 0.2031
+Precision: 0.5020
+
+[MODEL NAME: model_cities_27.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.8820
+Test acc: 0.5541
+[True stats]
+F1 Score: 0.5851
+Recall: 0.5067
+Precision: 0.6923
+[False stats]
+F1 Score: 0.5182
+Recall: 0.6317
+Precision: 0.4392
+
+[MODEL NAME: model_companies_15.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 1.0761
+Test acc: 0.5544
+[True stats]
+F1 Score: 0.6423
+Recall: 0.6440
+Precision: 0.6405
+[False stats]
+F1 Score: 0.4094
+Recall: 0.4076
+Precision: 0.4112
+
+[MODEL NAME: model_companies_19.ckpt]
+[Testing: (boolq, Layer 19)]
+Test loss: 1.1670
+Test acc: 0.5443
+[True stats]
+F1 Score: 0.6122
+Recall: 0.5782
+Precision: 0.6504
+[False stats]
+F1 Score: 0.4477
+Recall: 0.4887
+Precision: 0.4131
+
+[MODEL NAME: model_companies_23.ckpt]
+[Testing: (boolq, Layer 23)]
+Test loss: 1.0397
+Test acc: 0.5740
+[True stats]
+F1 Score: 0.6598
+Recall: 0.6642
+Precision: 0.6555
+[False stats]
+F1 Score: 0.4303
+Recall: 0.4256
+Precision: 0.4351
+
+[MODEL NAME: model_companies_27.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.9452
+Test acc: 0.5976
+[True stats]
+F1 Score: 0.7188
+Recall: 0.8290
+Precision: 0.6345
+[False stats]
+F1 Score: 0.2925
+Recall: 0.2192
+Precision: 0.4394
+
+[MODEL NAME: model_elements_15.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 0.7963
+Test acc: 0.4838
+[True stats]
+F1 Score: 0.4964
+Recall: 0.4097
+Precision: 0.6298
+[False stats]
+F1 Score: 0.4705
+Recall: 0.6053
+Precision: 0.3848
+
+[MODEL NAME: model_elements_19.ckpt]
+[Testing: (boolq, Layer 19)]
+Test loss: 1.1426
+Test acc: 0.5685
+[True stats]
+F1 Score: 0.6806
+Recall: 0.7389
+Precision: 0.6307
+[False stats]
+F1 Score: 0.3354
+Recall: 0.2880
+Precision: 0.4014
+
+[MODEL NAME: model_elements_23.ckpt]
+[Testing: (boolq, Layer 23)]
+Test loss: 0.9263
+Test acc: 0.5789
+[True stats]
+F1 Score: 0.7028
+Recall: 0.8004
+Precision: 0.6264
+[False stats]
+F1 Score: 0.2779
+Recall: 0.2144
+Precision: 0.3949
+
+[MODEL NAME: model_elements_27.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.9119
+Test acc: 0.5884
+[True stats]
+F1 Score: 0.7139
+Recall: 0.8275
+Precision: 0.6277
+[False stats]
+F1 Score: 0.2669
+Recall: 0.1974
+Precision: 0.4118
+
+[MODEL NAME: model_facts_15.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 1.7355
+Test acc: 0.3872
+[True stats]
+F1 Score: 0.1971
+Recall: 0.1211
+Precision: 0.5290
+[False stats]
+F1 Score: 0.5045
+Recall: 0.8232
+Precision: 0.3636
+
+[MODEL NAME: model_facts_19.ckpt]
+[Testing: (boolq, Layer 19)]
+Test loss: 1.6979
+Test acc: 0.4064
+[True stats]
+F1 Score: 0.2628
+Recall: 0.1701
+Precision: 0.5776
+[False stats]
+F1 Score: 0.5032
+Recall: 0.7953
+Precision: 0.3680
+
+[MODEL NAME: model_facts_23.ckpt]
+[Testing: (boolq, Layer 23)]
+Test loss: 1.1587
+Test acc: 0.4122
+[True stats]
+F1 Score: 0.2791
+Recall: 0.1829
+Precision: 0.5886
+[False stats]
+F1 Score: 0.5039
+Recall: 0.7896
+Precision: 0.3700
+
+[MODEL NAME: model_facts_27.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 1.1700
+Test acc: 0.4043
+[True stats]
+F1 Score: 0.2588
+Recall: 0.1676
+Precision: 0.5676
+[False stats]
+F1 Score: 0.5020
+Recall: 0.7913
+Precision: 0.3677
+
+[MODEL NAME: model_inventions_15.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 1.2664
+Test acc: 0.6156
+[True stats]
+F1 Score: 0.7503
+Recall: 0.9301
+Precision: 0.6288
+[False stats]
+F1 Score: 0.1648
+Recall: 0.1001
+Precision: 0.4662
+
+[MODEL NAME: model_inventions_19.ckpt]
+[Testing: (boolq, Layer 19)]
+Test loss: 1.0216
+Test acc: 0.6110
+[True stats]
+F1 Score: 0.7438
+Recall: 0.9076
+Precision: 0.6300
+[False stats]
+F1 Score: 0.1929
+Recall: 0.1230
+Precision: 0.4471
+
+[MODEL NAME: model_inventions_23.ckpt]
+[Testing: (boolq, Layer 23)]
+Test loss: 1.0831
+Test acc: 0.6226
+[True stats]
+F1 Score: 0.7595
+Recall: 0.9582
+Precision: 0.6291
+[False stats]
+F1 Score: 0.1236
+Recall: 0.0704
+Precision: 0.5058
+
+[MODEL NAME: model_inventions_27.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.7235
+Test acc: 0.5976
+[True stats]
+F1 Score: 0.7282
+Recall: 0.8689
+Precision: 0.6267
+[False stats]
+F1 Score: 0.2250
+Recall: 0.1539
+Precision: 0.4179
+
+[MODEL NAME: model_animals_15.ckpt]
+[Testing: (generated, Layer 15)]
+Test loss: 0.5452
+Test acc: 0.7184
+[True stats]
+F1 Score: 0.7988
+Recall: 0.9133
+Precision: 0.7098
+[False stats]
+F1 Score: 0.5306
+Recall: 0.4105
+Precision: 0.7500
+
+[MODEL NAME: model_cities_15.ckpt]
+[Testing: (generated, Layer 15)]
+Test loss: 1.1416
+Test acc: 0.5592
+[True stats]
+F1 Score: 0.7097
+Recall: 0.8800
+Precision: 0.5946
+[False stats]
+F1 Score: 0.0847
+Recall: 0.0526
+Precision: 0.2174
+
+[MODEL NAME: model_companies_15.ckpt]
+[Testing: (generated, Layer 15)]
+Test loss: 0.6774
+Test acc: 0.6980
+[True stats]
+F1 Score: 0.7989
+Recall: 0.9800
+Precision: 0.6743
+[False stats]
+F1 Score: 0.3934
+Recall: 0.2526
+Precision: 0.8889
+
+[MODEL NAME: model_elements_15.ckpt]
+[Testing: (generated, Layer 15)]
+Test loss: 0.5284
+Test acc: 0.7755
+[True stats]
+F1 Score: 0.8338
+Recall: 0.9200
+Precision: 0.7624
+[False stats]
+F1 Score: 0.6541
+Recall: 0.5474
+Precision: 0.8125
+
+[MODEL NAME: model_all_15.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 1.1239
+Test acc: 0.4621
+[True stats]
+F1 Score: 0.3742
+Recall: 0.2590
+Precision: 0.6744
+[False stats]
+F1 Score: 0.5283
+Recall: 0.7950
+Precision: 0.3956
+
+[MODEL NAME: model_all_19.ckpt]
+[Testing: (boolq, Layer 19)]
+Test loss: 1.1280
+Test acc: 0.4648
+[True stats]
+F1 Score: 0.3406
+Recall: 0.2222
+Precision: 0.7290
+[False stats]
+F1 Score: 0.5497
+Recall: 0.8641
+Precision: 0.4030
+
+[MODEL NAME: model_all_23.ckpt]
+[Testing: (boolq, Layer 23)]
+Test loss: 0.9890
+Test acc: 0.5187
+[True stats]
+F1 Score: 0.5060
+Recall: 0.3963
+Precision: 0.6997
+[False stats]
+F1 Score: 0.5307
+Recall: 0.7201
+Precision: 0.4202
+
+[MODEL NAME: model_all_27.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.9299
+Test acc: 0.5141
+[True stats]
+F1 Score: 0.4816
+Recall: 0.3637
+Precision: 0.7124
+[False stats]
+F1 Score: 0.5427
+Recall: 0.7599
+Precision: 0.4221
+
+[MODEL NAME: mode_boolq_passage_23.ckpt]
+[Testing: (animals, Layer 23)]
+Test loss: 0.7479
+Test acc: 0.6319
+[True stats]
+F1 Score: 0.7262
+Recall: 0.6640
+Precision: 0.8013
+[False stats]
+F1 Score: 0.4387
+Recall: 0.5431
+Precision: 0.3680
+
+[MODEL NAME: mode_boolq_passage_23.ckpt]
+[Testing: (cities, Layer 23)]
+Test loss: 0.6906
+Test acc: 0.7016
+[True stats]
+F1 Score: 0.8211
+Recall: 0.7360
+Precision: 0.9284
+[False stats]
+F1 Score: 0.1031
+Recall: 0.2451
+Precision: 0.0653
+
+[MODEL NAME: mode_boolq_passage_23.ckpt]
+[Testing: (companies, Layer 23)]
+Test loss: 0.5465
+Test acc: 0.8083
+[True stats]
+F1 Score: 0.8814
+Recall: 0.8671
+Precision: 0.8962
+[False stats]
+F1 Score: 0.5000
+Recall: 0.5374
+Precision: 0.4675
+
+[MODEL NAME: mode_boolq_passage_23.ckpt]
+[Testing: (elements, Layer 23)]
+Test loss: 0.7225
+Test acc: 0.6570
+[True stats]
+F1 Score: 0.7454
+Recall: 0.6729
+Precision: 0.8354
+[False stats]
+F1 Score: 0.4745
+Recall: 0.6102
+Precision: 0.3881
+
+[MODEL NAME: mode_boolq_passage_23.ckpt]
+[Testing: (facts, Layer 23)]
+Test loss: 0.5720
+Test acc: 0.8140
+[True stats]
+F1 Score: 0.8805
+Recall: 0.8268
+Precision: 0.9417
+[False stats]
+F1 Score: 0.5809
+Recall: 0.7524
+Precision: 0.4731
+
+[MODEL NAME: mode_boolq_passage_23.ckpt]
+[Testing: (inventions, Layer 23)]
+Test loss: 0.6895
+Test acc: 0.7272
+[True stats]
+F1 Score: 0.8163
+Recall: 0.7344
+Precision: 0.9187
+[False stats]
+F1 Score: 0.4701
+Recall: 0.6928
+Precision: 0.3557
+
+[MODEL NAME: mode_boolq_passage_19.ckpt]
+[Testing: (animals, Layer 19)]
+Test loss: 0.6187
+Test acc: 0.7054
+[True stats]
+F1 Score: 0.8050
+Recall: 0.8273
+Precision: 0.7839
+[False stats]
+F1 Score: 0.3976
+Recall: 0.3670
+Precision: 0.4336
+
+[MODEL NAME: mode_boolq_passage_19.ckpt]
+[Testing: (animals, Layer 19)]
+Test loss: 0.6187
+Test acc: 0.7054
+[True stats]
+F1 Score: 0.8050
+Recall: 0.8273
+Precision: 0.7839
+[False stats]
+F1 Score: 0.3976
+Recall: 0.3670
+Precision: 0.4336
+
+[MODEL NAME: mode_boolq_passage_19.ckpt]
+[Testing: (cities, Layer 19)]
+Test loss: 0.5350
+Test acc: 0.8539
+[True stats]
+F1 Score: 0.9201
+Recall: 0.9048
+Precision: 0.9359
+[False stats]
+F1 Score: 0.1514
+Recall: 0.1845
+Precision: 0.1284
+
+[MODEL NAME: mode_boolq_passage_19.ckpt]
+[Testing: (companies, Layer 19)]
+Test loss: 0.5219
+Test acc: 0.8400
+[True stats]
+F1 Score: 0.9093
+Recall: 0.9767
+Precision: 0.8507
+[False stats]
+F1 Score: 0.3191
+Recall: 0.2103
+Precision: 0.6618
+
+[MODEL NAME: mode_boolq_passage_19.ckpt]
+[Testing: (elements, Layer 19)]
+Test loss: 0.6301
+Test acc: 0.6946
+[True stats]
+F1 Score: 0.7912
+Recall: 0.7752
+Precision: 0.8078
+[False stats]
+F1 Score: 0.4320
+Recall: 0.4576
+Precision: 0.4091
+
+[MODEL NAME: mode_boolq_passage_19.ckpt]
+[Testing: (facts, Layer 19)]
+Test loss: 0.5198
+Test acc: 0.8564
+[True stats]
+F1 Score: 0.9149
+Recall: 0.9311
+Precision: 0.8992
+[False stats]
+F1 Score: 0.5417
+Recall: 0.4952
+Precision: 0.5977
+
+[MODEL NAME: mode_boolq_passage_19.ckpt]
+[Testing: (inventions, Layer 19)]
+Test loss: 0.5772
+Test acc: 0.7888
+[True stats]
+F1 Score: 0.8721
+Recall: 0.8703
+Precision: 0.8740
+[False stats]
+F1 Score: 0.3934
+Recall: 0.3974
+Precision: 0.3896
+
+[MODEL NAME: mode_boolq_passage_19.ckpt]
+[Testing: (generated, Layer 19)]
+Test loss: 0.6197
+Test acc: 0.7020
+[True stats]
+F1 Score: 0.7712
+Recall: 0.8200
+Precision: 0.7278
+[False stats]
+F1 Score: 0.5731
+Recall: 0.5158
+Precision: 0.6447
+
+[MODEL NAME: mode_boolq_passage_23.ckpt]
+[Testing: (generated, Layer 23)]
+Test loss: 0.6588
+Test acc: 0.6776
+[True stats]
+F1 Score: 0.7019
+Recall: 0.6200
+Precision: 0.8087
+[False stats]
+F1 Score: 0.6489
+Recall: 0.7684
+Precision: 0.5615
+
+[MODEL NAME: model_animals_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 0.8827
+Test acc: 0.5755
+[True stats]
+F1 Score: 0.6790
+Recall: 0.6539
+Precision: 0.7061
+[False stats]
+F1 Score: 0.3736
+Recall: 0.4039
+Precision: 0.3476
+
+[MODEL NAME: model_animals_19.ckpt]
+[Testing: (boolq_passage, Layer 19)]
+Test loss: 0.9535
+Test acc: 0.5456
+[True stats]
+F1 Score: 0.6552
+Recall: 0.6298
+Precision: 0.6828
+[False stats]
+F1 Score: 0.3336
+Recall: 0.3619
+Precision: 0.3095
+
+[MODEL NAME: model_animals_23.ckpt]
+[Testing: (boolq_passage, Layer 23)]
+Test loss: 0.9396
+Test acc: 0.5281
+[True stats]
+F1 Score: 0.6369
+Recall: 0.6029
+Precision: 0.6748
+[False stats]
+F1 Score: 0.3265
+Recall: 0.3645
+Precision: 0.2957
+
+[MODEL NAME: model_animals_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 0.7414
+Test acc: 0.6217
+[True stats]
+F1 Score: 0.7499
+Recall: 0.8274
+Precision: 0.6858
+[False stats]
+F1 Score: 0.2235
+Recall: 0.1732
+Precision: 0.3150
+
+[MODEL NAME: model_all_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 1.1674
+Test acc: 0.5183
+[True stats]
+F1 Score: 0.6006
+Recall: 0.5281
+Precision: 0.6961
+[False stats]
+F1 Score: 0.3935
+Recall: 0.4971
+Precision: 0.3257
+
+[MODEL NAME: model_all_27.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.9299
+Test acc: 0.5141
+[True stats]
+F1 Score: 0.4816
+Recall: 0.3637
+Precision: 0.7124
+[False stats]
+F1 Score: 0.5427
+Recall: 0.7599
+Precision: 0.4221
+
+[MODEL NAME: model_all_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 1.1674
+Test acc: 0.5183
+[True stats]
+F1 Score: 0.6006
+Recall: 0.5281
+Precision: 0.6961
+[False stats]
+F1 Score: 0.3935
+Recall: 0.4971
+Precision: 0.3257
+
+[MODEL NAME: model_all_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 1.6108
+Test acc: 0.6471
+[True stats]
+F1 Score: 0.7728
+Recall: 0.8744
+Precision: 0.6924
+[False stats]
+F1 Score: 0.2096
+Recall: 0.1493
+Precision: 0.3517
+
+[MODEL NAME: model_cities_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 0.9493
+Test acc: 0.6639
+[True stats]
+F1 Score: 0.7815
+Recall: 0.8753
+Precision: 0.7058
+[False stats]
+F1 Score: 0.2727
+Recall: 0.2010
+Precision: 0.4239
+
+[MODEL NAME: model_cities_19.ckpt]
+[Testing: (boolq_passage, Layer 19)]
+Test loss: 1.5099
+Test acc: 0.6685
+[True stats]
+F1 Score: 0.7897
+Recall: 0.9077
+Precision: 0.6988
+[False stats]
+F1 Score: 0.2179
+Recall: 0.1469
+Precision: 0.4218
+
+[MODEL NAME: model_cities_23.ckpt]
+[Testing: (boolq_passage, Layer 23)]
+Test loss: 1.5885
+Test acc: 0.6569
+[True stats]
+F1 Score: 0.7786
+Recall: 0.8792
+Precision: 0.6987
+[False stats]
+F1 Score: 0.2378
+Recall: 0.1706
+Precision: 0.3924
+
+[MODEL NAME: model_cities_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 1.2970
+Test acc: 0.6538
+[True stats]
+F1 Score: 0.7692
+Recall: 0.8412
+Precision: 0.7085
+[False stats]
+F1 Score: 0.3081
+Recall: 0.2451
+Precision: 0.4145
+
+[MODEL NAME: model_cities_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 1.2970
+Test acc: 0.6538
+[True stats]
+F1 Score: 0.7692
+Recall: 0.8412
+Precision: 0.7085
+[False stats]
+F1 Score: 0.3081
+Recall: 0.2451
+Precision: 0.4145
+
+[MODEL NAME: model_cities_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 1.2970
+Test acc: 0.6538
+[True stats]
+F1 Score: 0.7692
+Recall: 0.8412
+Precision: 0.7085
+[False stats]
+F1 Score: 0.3081
+Recall: 0.2451
+Precision: 0.4145
+
+[MODEL NAME: model_cities_27.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.8820
+Test acc: 0.5541
+[True stats]
+F1 Score: 0.5851
+Recall: 0.5067
+Precision: 0.6923
+[False stats]
+F1 Score: 0.5182
+Recall: 0.6317
+Precision: 0.4392
+
+[MODEL NAME: model_companies_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 1.4422
+Test acc: 0.6037
+[True stats]
+F1 Score: 0.7276
+Recall: 0.7710
+Precision: 0.6888
+[False stats]
+F1 Score: 0.2727
+Recall: 0.2371
+Precision: 0.3210
+
+[MODEL NAME: model_cities_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 1.2970
+Test acc: 0.6538
+[True stats]
+F1 Score: 0.7692
+Recall: 0.8412
+Precision: 0.7085
+[False stats]
+F1 Score: 0.3081
+Recall: 0.2451
+Precision: 0.4145
+
+[MODEL NAME: model_companies_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 1.4422
+Test acc: 0.6037
+[True stats]
+F1 Score: 0.7276
+Recall: 0.7710
+Precision: 0.6888
+[False stats]
+F1 Score: 0.2727
+Recall: 0.2371
+Precision: 0.3210
+
+[MODEL NAME: model_companies_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 1.4422
+Test acc: 0.6037
+[True stats]
+F1 Score: 0.7276
+Recall: 0.7710
+Precision: 0.6888
+[False stats]
+F1 Score: 0.2727
+Recall: 0.2371
+Precision: 0.3210
+
+[MODEL NAME: model_companies_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 1.4422
+Test acc: 0.6037
+[True stats]
+F1 Score: 0.7276
+Recall: 0.7710
+Precision: 0.6888
+[False stats]
+F1 Score: 0.2727
+Recall: 0.2371
+Precision: 0.3210
+
+[MODEL NAME: model_companies_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 1.4422
+Test acc: 0.6037
+[True stats]
+F1 Score: 0.7276
+Recall: 0.7710
+Precision: 0.6888
+[False stats]
+F1 Score: 0.2727
+Recall: 0.2371
+Precision: 0.3210
+
+[MODEL NAME: model_companies_15.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 1.0761
+Test acc: 0.5544
+[True stats]
+F1 Score: 0.6423
+Recall: 0.6440
+Precision: 0.6405
+[False stats]
+F1 Score: 0.4094
+Recall: 0.4076
+Precision: 0.4112
+
+[MODEL NAME: model_companies_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 1.4422
+Test acc: 0.6037
+[True stats]
+F1 Score: 0.7276
+Recall: 0.7710
+Precision: 0.6888
+[False stats]
+F1 Score: 0.2727
+Recall: 0.2371
+Precision: 0.3210
+
+[MODEL NAME: model_companies_19.ckpt]
+[Testing: (boolq_passage, Layer 19)]
+Test loss: 1.1408
+Test acc: 0.5890
+[True stats]
+F1 Score: 0.7076
+Recall: 0.7252
+Precision: 0.6907
+[False stats]
+F1 Score: 0.3086
+Recall: 0.2918
+Precision: 0.3275
+
+[MODEL NAME: model_companies_19.ckpt]
+[Testing: (boolq_passage, Layer 19)]
+Test loss: 1.1408
+Test acc: 0.5890
+[True stats]
+F1 Score: 0.7076
+Recall: 0.7252
+Precision: 0.6907
+[False stats]
+F1 Score: 0.3086
+Recall: 0.2918
+Precision: 0.3275
+
+[MODEL NAME: model_companies_23.ckpt]
+[Testing: (boolq_passage, Layer 23)]
+Test loss: 0.8947
+Test acc: 0.6150
+[True stats]
+F1 Score: 0.7354
+Recall: 0.7799
+Precision: 0.6958
+[False stats]
+F1 Score: 0.2931
+Recall: 0.2544
+Precision: 0.3457
+
+[MODEL NAME: model_companies_23.ckpt]
+[Testing: (boolq_passage, Layer 23)]
+Test loss: 0.8947
+Test acc: 0.6150
+[True stats]
+F1 Score: 0.7354
+Recall: 0.7799
+Precision: 0.6958
+[False stats]
+F1 Score: 0.2931
+Recall: 0.2544
+Precision: 0.3457
+
+[MODEL NAME: model_companies_23.ckpt]
+[Testing: (boolq_passage, Layer 23)]
+Test loss: 0.8947
+Test acc: 0.6150
+[True stats]
+F1 Score: 0.7354
+Recall: 0.7799
+Precision: 0.6958
+[False stats]
+F1 Score: 0.2931
+Recall: 0.2544
+Precision: 0.3457
+
+[MODEL NAME: model_companies_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 0.7307
+Test acc: 0.6654
+[True stats]
+F1 Score: 0.7887
+Recall: 0.9108
+Precision: 0.6955
+[False stats]
+F1 Score: 0.1968
+Recall: 0.1304
+Precision: 0.4012
+
+[MODEL NAME: model_elements_15.ckpt]
+[MODEL NAME: model_elements_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 1.5793
+Test acc: 0.6829
+[True stats]
+F1 Score: 0.8068
+Recall: 0.9644
+Precision: 0.6935
+[False stats]
+F1 Score: 0.1159
+Recall: 0.0663
+Precision: 0.4595
+
+[MODEL NAME: model_elements_15.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 0.7963
+Test acc: 0.4838
+[True stats]
+F1 Score: 0.4964
+Recall: 0.4097
+Precision: 0.6298
+[False stats]
+F1 Score: 0.4705
+Recall: 0.6053
+Precision: 0.3848
+
+[MODEL NAME: model_elements_19.ckpt]
+[Testing: (boolq_passage, Layer 19)]
+Test loss: 2.0851
+Test acc: 0.6214
+[True stats]
+F1 Score: 0.7484
+Recall: 0.8211
+Precision: 0.6875
+[False stats]
+F1 Score: 0.2358
+Recall: 0.1858
+Precision: 0.3226
+
+[MODEL NAME: model_elements_23.ckpt]
+[Testing: (boolq_passage, Layer 23)]
+Test loss: 1.7663
+Test acc: 0.6792
+[True stats]
+F1 Score: 0.8076
+Recall: 0.9813
+Precision: 0.6862
+[False stats]
+F1 Score: 0.0350
+Recall: 0.0185
+Precision: 0.3115
+
+[MODEL NAME: model_elements_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 1.6915
+Test acc: 0.6829
+[True stats]
+F1 Score: 0.8099
+Recall: 0.9853
+Precision: 0.6875
+[False stats]
+F1 Score: 0.0442
+Recall: 0.0233
+Precision: 0.4211
+
+[MODEL NAME: model_facts_19.ckpt]
+[Testing: (boolq_passage, Layer 19)]
+Test loss: 1.7517
+Test acc: 0.4541
+[True stats]
+F1 Score: 0.4816
+Recall: 0.3698
+Precision: 0.6903
+[False stats]
+F1 Score: 0.4236
+Recall: 0.6381
+Precision: 0.3171
+
+[MODEL NAME: model_facts_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 1.3765
+Test acc: 0.4761
+[True stats]
+F1 Score: 0.5313
+Recall: 0.4325
+Precision: 0.6887
+[False stats]
+F1 Score: 0.4062
+Recall: 0.5717
+Precision: 0.3151
+
+[MODEL NAME: model_facts_23.ckpt]
+[Testing: (boolq_passage, Layer 23)]
+Test loss: 0.9115
+Test acc: 0.4771
+[True stats]
+F1 Score: 0.5398
+Recall: 0.4470
+Precision: 0.6814
+[False stats]
+F1 Score: 0.3945
+Recall: 0.5429
+Precision: 0.3098
+
+[MODEL NAME: model_facts_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 0.9079
+Test acc: 0.5098
+[True stats]
+F1 Score: 0.5785
+Recall: 0.4906
+Precision: 0.7047
+[False stats]
+F1 Score: 0.4143
+Recall: 0.5516
+Precision: 0.3318
+
+[MODEL NAME: model_inventions_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 2.7717
+Test acc: 0.6697
+[True stats]
+F1 Score: 0.7935
+Recall: 0.9243
+Precision: 0.6951
+[False stats]
+F1 Score: 0.1756
+Recall: 0.1122
+Precision: 0.4035
+
+[MODEL NAME: model_inventions_19.ckpt]
+[Testing: (boolq_passage, Layer 19)]
+Test loss: 1.2699
+Test acc: 0.6107
+[True stats]
+F1 Score: 0.7353
+Recall: 0.7886
+Precision: 0.6887
+[False stats]
+F1 Score: 0.2646
+Recall: 0.2228
+Precision: 0.3257
+
+[MODEL NAME: model_inventions_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 2.7717
+Test acc: 0.6697
+[True stats]
+F1 Score: 0.7935
+Recall: 0.9243
+Precision: 0.6951
+[False stats]
+F1 Score: 0.1756
+Recall: 0.1122
+Precision: 0.4035
+
+[MODEL NAME: model_inventions_23.ckpt]
+[Testing: (boolq_passage, Layer 23)]
+Test loss: 1.7170
+Test acc: 0.5648
+[True stats]
+F1 Score: 0.6810
+Recall: 0.6769
+Precision: 0.6852
+[False stats]
+F1 Score: 0.3155
+Recall: 0.3197
+Precision: 0.3115
+
+[MODEL NAME: model_inventions_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 0.8250
+Test acc: 0.6382
+[True stats]
+F1 Score: 0.7671
+Recall: 0.8689
+Precision: 0.6866
+[False stats]
+F1 Score: 0.1903
+Recall: 0.1352
+Precision: 0.3210
+
+[MODEL NAME: model_all_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 1.6108
+Test acc: 0.6471
+[True stats]
+F1 Score: 0.7728
+Recall: 0.8744
+Precision: 0.6924
+[False stats]
+F1 Score: 0.2096
+Recall: 0.1493
+Precision: 0.3517
+
+[MODEL NAME: model_all_19.ckpt]
+[Testing: (boolq_passage, Layer 19)]
+Test loss: 1.2379
+Test acc: 0.4820
+[True stats]
+F1 Score: 0.5565
+Recall: 0.4741
+Precision: 0.6736
+[False stats]
+F1 Score: 0.3772
+Recall: 0.4990
+Precision: 0.3032
+
+[MODEL NAME: model_all_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 1.6108
+Test acc: 0.6471
+[True stats]
+F1 Score: 0.7728
+Recall: 0.8744
+Precision: 0.6924
+[False stats]
+F1 Score: 0.2096
+Recall: 0.1493
+Precision: 0.3517
+
+[MODEL NAME: model_all_19.ckpt]
+[Testing: (boolq_passage, Layer 19)]
+Test loss: 1.2379
+Test acc: 0.4820
+[True stats]
+F1 Score: 0.5565
+Recall: 0.4741
+Precision: 0.6736
+[False stats]
+F1 Score: 0.3772
+Recall: 0.4990
+Precision: 0.3032
+
+[MODEL NAME: model_all_23.ckpt]
+[Testing: (boolq_passage, Layer 23)]
+Test loss: 1.8981
+Test acc: 0.4483
+[True stats]
+F1 Score: 0.5060
+Recall: 0.4118
+Precision: 0.6562
+[False stats]
+F1 Score: 0.3753
+Recall: 0.5283
+Precision: 0.2911
+
+[MODEL NAME: model_all_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 1.1674
+Test acc: 0.5183
+[True stats]
+F1 Score: 0.6006
+Recall: 0.5281
+Precision: 0.6961
+[False stats]
+F1 Score: 0.3935
+Recall: 0.4971
+Precision: 0.3257
+
+[MODEL NAME: model_boolq_15.ckpt]
+[MODEL NAME: model_boolq_15.ckpt]
+[MODEL NAME: model_boolq_passage_19.ckpt]
+[Testing: (animals, Layer 19)]
+Test loss: 0.6187
+Test acc: 0.7054
+[True stats]
+F1 Score: 0.8050
+Recall: 0.8273
+Precision: 0.7839
+[False stats]
+F1 Score: 0.3976
+Recall: 0.3670
+Precision: 0.4336
+
+[MODEL NAME: model_boolq_passage_19.ckpt]
+[Testing: (animals, Layer 19)]
+Test loss: 0.6187
+Test acc: 0.7054
+[True stats]
+F1 Score: 0.8050
+Recall: 0.8273
+Precision: 0.7839
+[False stats]
+F1 Score: 0.3976
+Recall: 0.3670
+Precision: 0.4336
+
+[MODEL NAME: model_boolq_15.ckpt]
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (cities, Layer 15)]
+Test loss: 0.4829
+Test acc: 0.9300
+[True stats]
+F1 Score: 0.9637
+Recall: 1.0000
+Precision: 0.9300
+[False stats]
+F1 Score: 0.0192
+Recall: 0.0097
+Precision: 1.0000
+
+[MODEL NAME: model_boolq_15.ckpt]
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (animals, Layer 15)]
+Test loss: 0.6001
+Test acc: 0.7351
+[True stats]
+F1 Score: 0.8473
+Recall: 1.0000
+Precision: 0.7351
+[False stats]
+F1 Score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (cities, Layer 15)]
+Test loss: 0.4829
+Test acc: 0.9300
+[True stats]
+F1 Score: 0.9637
+Recall: 1.0000
+Precision: 0.9300
+[False stats]
+F1 Score: 0.0192
+Recall: 0.0097
+Precision: 1.0000
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (companies, Layer 15)]
+Test loss: 0.5451
+Test acc: 0.8217
+[True stats]
+F1 Score: 0.9021
+Recall: 1.0000
+Precision: 0.8217
+[False stats]
+F1 Score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (elements, Layer 15)]
+Test loss: 0.5941
+Test acc: 0.7441
+[True stats]
+F1 Score: 0.8533
+Recall: 1.0000
+Precision: 0.7441
+[False stats]
+F1 Score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (facts, Layer 15)]
+Test loss: 0.5358
+Test acc: 0.8287
+[True stats]
+F1 Score: 0.9063
+Recall: 1.0000
+Precision: 0.8287
+[False stats]
+F1 Score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (inventions, Layer 15)]
+Test loss: 0.5474
+Test acc: 0.8288
+[True stats]
+F1 Score: 0.9064
+Recall: 1.0000
+Precision: 0.8288
+[False stats]
+F1 Score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (generated, Layer 15)]
+Test loss: 0.6666
+Test acc: 0.6163
+[True stats]
+F1 Score: 0.7614
+Recall: 1.0000
+Precision: 0.6148
+[False stats]
+F1 Score: 0.0208
+Recall: 0.0105
+Precision: 1.0000
+
+[MODEL NAME: model_boolq_19.ckpt]
+[Testing: (generated, Layer 19)]
+Test loss: 0.8497
+Test acc: 0.4857
+[True stats]
+F1 Score: 0.6294
+Recall: 0.7133
+Precision: 0.5632
+[False stats]
+F1 Score: 0.1600
+Recall: 0.1263
+Precision: 0.2182
+
+[MODEL NAME: model_boolq_23.ckpt]
+[Testing: (generated, Layer 23)]
+Test loss: 0.7792
+Test acc: 0.4857
+[True stats]
+F1 Score: 0.6272
+Recall: 0.7067
+Precision: 0.5638
+[False stats]
+F1 Score: 0.1711
+Recall: 0.1368
+Precision: 0.2281
+
+[MODEL NAME: model_boolq_passage_19.ckpt]
+[Testing: (generated, Layer 19)]
+Test loss: 0.6197
+Test acc: 0.7020
+[True stats]
+F1 Score: 0.7712
+Recall: 0.8200
+Precision: 0.7278
+[False stats]
+F1 Score: 0.5731
+Recall: 0.5158
+Precision: 0.6447
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (animals, Layer 15)]
+Test loss: 0.6339
+Test acc: 0.7351
+[True stats]
+F1 Score: 0.8473
+Recall: 1.0000
+Precision: 0.7351
+[False stats]
+F1 Score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (cities, Layer 15)]
+Test loss: 0.5803
+Test acc: 0.9300
+[True stats]
+F1 Score: 0.9637
+Recall: 1.0000
+Precision: 0.9300
+[False stats]
+F1 Score: 0.0192
+Recall: 0.0097
+Precision: 1.0000
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (companies, Layer 15)]
+Test loss: 0.5939
+Test acc: 0.8217
+[True stats]
+F1 Score: 0.9021
+Recall: 1.0000
+Precision: 0.8217
+[False stats]
+F1 Score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (elements, Layer 15)]
+Test loss: 0.6309
+Test acc: 0.7441
+[True stats]
+F1 Score: 0.8533
+Recall: 1.0000
+Precision: 0.7441
+[False stats]
+F1 Score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (facts, Layer 15)]
+Test loss: 0.5944
+Test acc: 0.8287
+[True stats]
+F1 Score: 0.9063
+Recall: 1.0000
+Precision: 0.8287
+[False stats]
+F1 Score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (inventions, Layer 15)]
+Test loss: 0.6138
+Test acc: 0.8288
+[True stats]
+F1 Score: 0.9064
+Recall: 1.0000
+Precision: 0.8288
+[False stats]
+F1 Score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (generated, Layer 15)]
+Test loss: 0.6593
+Test acc: 0.6163
+[True stats]
+F1 Score: 0.7614
+Recall: 1.0000
+Precision: 0.6148
+[False stats]
+F1 Score: 0.0208
+Recall: 0.0105
+Precision: 1.0000
+
+[MODEL NAME: model_boolq_passage_27.ckpt]
+[Testing: (generated, Layer 27)]
+Test loss: 0.6619
+Test acc: 0.6163
+[True stats]
+F1 Score: 0.7614
+Recall: 1.0000
+Precision: 0.6148
+[False stats]
+F1 Score: 0.0208
+Recall: 0.0105
+Precision: 1.0000
+
+[MODEL NAME: model_boolq_passage_27.ckpt]
+[Testing: (animals, Layer 27)]
+Test loss: 0.6398
+Test acc: 0.7351
+[True stats]
+F1 Score: 0.8473
+Recall: 1.0000
+Precision: 0.7351
+[False stats]
+F1 Score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (animals, Layer 15)]
+Test loss: 0.6001
+Test acc: 0.7351
+[True stats]
+F1 Score: 0.8473
+Recall: 1.0000
+Precision: 0.7351
+[False stats]
+F1 Score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (animals, Layer 15)]
+Test loss: 0.7861
+Test acc: 0.5000
+[True stats]
+F1 Score: 0.6379
+Recall: 0.5992
+Precision: 0.6820
+[False stats]
+F1 Score: 0.1923
+Recall: 0.2247
+Precision: 0.1681
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (cities, Layer 15)]
+Test loss: 0.7784
+Test acc: 0.5000
+[True stats]
+F1 Score: 0.6407
+Recall: 0.4797
+Precision: 0.9644
+[False stats]
+F1 Score: 0.1781
+Recall: 0.7670
+Precision: 0.1008
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (companies, Layer 15)]
+Test loss: 0.7628
+Test acc: 0.5000
+[True stats]
+F1 Score: 0.6641
+Recall: 0.6014
+Precision: 0.7412
+[False stats]
+F1 Score: 0.0228
+Recall: 0.0327
+Precision: 0.0175
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (cities, Layer 15)]
+Test loss: 0.7784
+Test acc: 0.5000
+[True stats]
+F1 Score: 0.6407
+Recall: 0.4797
+Precision: 0.9644
+[False stats]
+F1 Score: 0.1781
+Recall: 0.7670
+Precision: 0.1008
+
+[MODEL NAME: model_boolq_19.ckpt]
+[Testing: (cities, Layer 19)]
+Test loss: 0.6185
+Test acc: 0.5000
+[True stats]
+F1 Score: 0.6407
+Recall: 0.4797
+Precision: 0.9644
+[False stats]
+F1 Score: 0.1781
+Recall: 0.7670
+Precision: 0.1008
+
+[MODEL NAME: model_boolq_19.ckpt]
+[Testing: (generated, Layer 19)]
+Test loss: 0.7094
+Test acc: 0.4857
+[True stats]
+F1 Score: 0.6294
+Recall: 0.7133
+Precision: 0.5632
+[False stats]
+F1 Score: 0.1600
+Recall: 0.1263
+Precision: 0.2182
+
+[MODEL NAME: model_boolq_19.ckpt]
+[Testing: (facts, Layer 19)]
+Test loss: 0.6366
+Test acc: 0.4992
+[True stats]
+F1 Score: 0.6630
+Recall: 0.5945
+Precision: 0.7494
+[False stats]
+F1 Score: 0.0254
+Recall: 0.0381
+Precision: 0.0190
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 0.6389
+Test acc: 0.6187
+[True stats]
+F1 Score: 0.6784
+Recall: 0.6475
+Precision: 0.7124
+[False stats]
+F1 Score: 0.5317
+Recall: 0.5714
+Precision: 0.4972
+
+[MODEL NAME: model_boolq_27.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.6712
+Test acc: 0.5823
+[True stats]
+F1 Score: 0.5760
+Recall: 0.4574
+Precision: 0.7779
+[False stats]
+F1 Score: 0.5883
+Recall: 0.7865
+Precision: 0.4699
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (boolq_passage, Layer 15)]
+Test loss: 0.6363
+Test acc: 0.6716
+[True stats]
+F1 Score: 0.7436
+Recall: 0.6935
+Precision: 0.8013
+[False stats]
+F1 Score: 0.5434
+Recall: 0.6234
+Precision: 0.4815
+
+[MODEL NAME: model_boolq_passage_27.ckpt]
+[Testing: (boolq_passage, Layer 27)]
+Test loss: 0.6282
+Test acc: 0.6379
+[True stats]
+F1 Score: 0.6984
+Recall: 0.6115
+Precision: 0.8141
+[False stats]
+F1 Score: 0.5471
+Recall: 0.6955
+Precision: 0.4508
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (animals, Layer 15)]
+Test loss: 0.7695
+Test acc: 0.5000
+[True stats]
+F1 Score: 0.6379
+Recall: 0.5992
+Precision: 0.6820
+[False stats]
+F1 Score: 0.1923
+Recall: 0.2247
+Precision: 0.1681
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (animals, Layer 15)]
+Test loss: 0.6480
+Test acc: 0.6538
+[True stats]
+F1 Score: 0.7640
+Recall: 0.7625
+Precision: 0.7656
+[False stats]
+F1 Score: 0.3501
+Recall: 0.3521
+Precision: 0.3481
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (animals, Layer 15)]
+Test loss: 0.6480
+Test acc: 0.6538
+[True stats]
+F1 Score: 0.7640
+Recall: 0.7625
+Precision: 0.7656
+[False stats]
+F1 Score: 0.3501
+Recall: 0.3521
+Precision: 0.3481
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (cities, Layer 15)]
+Test loss: 0.5781
+Test acc: 0.7229
+[True stats]
+F1 Score: 0.8362
+Recall: 0.7609
+Precision: 0.9280
+[False stats]
+F1 Score: 0.1022
+Recall: 0.2233
+Precision: 0.0663
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (companies, Layer 15)]
+Test loss: 0.5204
+Test acc: 0.8092
+[True stats]
+F1 Score: 0.8906
+Recall: 0.9452
+Precision: 0.8419
+[False stats]
+F1 Score: 0.2541
+Recall: 0.1822
+Precision: 0.4194
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (elements, Layer 15)]
+Test loss: 0.5924
+Test acc: 0.6860
+[True stats]
+F1 Score: 0.7949
+Recall: 0.8179
+Precision: 0.7732
+[False stats]
+F1 Score: 0.3303
+Recall: 0.3025
+Precision: 0.3636
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (facts, Layer 15)]
+Test loss: 0.5291
+Test acc: 0.7896
+[True stats]
+F1 Score: 0.8693
+Recall: 0.8445
+Precision: 0.8956
+[False stats]
+F1 Score: 0.4603
+Recall: 0.5238
+Precision: 0.4104
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (inventions, Layer 15)]
+Test loss: 0.5820
+Test acc: 0.7317
+[True stats]
+F1 Score: 0.8303
+Recall: 0.7920
+Precision: 0.8725
+[False stats]
+F1 Score: 0.3597
+Recall: 0.4400
+Precision: 0.3041
+
+[MODEL NAME: model_boolq_passage_15.ckpt]
+[Testing: (generated, Layer 15)]
+Test loss: 0.6606
+Test acc: 0.5837
+[True stats]
+F1 Score: 0.6507
+Recall: 0.6333
+Precision: 0.6690
+[False stats]
+F1 Score: 0.4848
+Recall: 0.5053
+Precision: 0.4660
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (animals, Layer 15)]
+Test loss: 0.7695
+Test acc: 0.5000
+[True stats]
+F1 Score: 0.6379
+Recall: 0.5992
+Precision: 0.6820
+[False stats]
+F1 Score: 0.1923
+Recall: 0.2247
+Precision: 0.1681
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (cities, Layer 15)]
+Test loss: 0.7373
+Test acc: 0.4979
+[True stats]
+F1 Score: 0.6380
+Recall: 0.4760
+Precision: 0.9670
+[False stats]
+F1 Score: 0.1812
+Recall: 0.7864
+Precision: 0.1024
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (companies, Layer 15)]
+Test loss: 0.7348
+Test acc: 0.5000
+[True stats]
+F1 Score: 0.6641
+Recall: 0.6014
+Precision: 0.7412
+[False stats]
+F1 Score: 0.0228
+Recall: 0.0327
+Precision: 0.0175
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (elements, Layer 15)]
+Test loss: 0.7316
+Test acc: 0.5032
+[True stats]
+F1 Score: 0.6413
+Recall: 0.5968
+Precision: 0.6930
+[False stats]
+F1 Score: 0.1923
+Recall: 0.2311
+Precision: 0.1647
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (facts, Layer 15)]
+Test loss: 0.6856
+Test acc: 0.5057
+[True stats]
+F1 Score: 0.6652
+Recall: 0.5925
+Precision: 0.7582
+[False stats]
+F1 Score: 0.0561
+Recall: 0.0857
+Precision: 0.0417
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (inventions, Layer 15)]
+Test loss: 0.7194
+Test acc: 0.5274
+[True stats]
+F1 Score: 0.6761
+Recall: 0.5950
+Precision: 0.7826
+[False stats]
+F1 Score: 0.1266
+Recall: 0.2000
+Precision: 0.0926
+
+[MODEL NAME: model_boolq_15.ckpt]
+[Testing: (generated, Layer 15)]
+Test loss: 0.7594
+Test acc: 0.4939
+[True stats]
+F1 Score: 0.6287
+Recall: 0.7000
+Precision: 0.5707
+[False stats]
+F1 Score: 0.2051
+Recall: 0.1684
+Precision: 0.2623
+
+[MODEL NAME: model_boolq_27.ckpt]
+[Testing: (animals, Layer 27)]
+Test loss: 0.8281
+Test acc: 0.4831
+[True stats]
+F1 Score: 0.5907
+Recall: 0.5074
+Precision: 0.7068
+[False stats]
+F1 Score: 0.2988
+Recall: 0.4157
+Precision: 0.2332
+
+[MODEL NAME: model_boolq_27.ckpt]
+[Testing: (cities, Layer 27)]
+Test loss: 0.8529
+Test acc: 0.4527
+[True stats]
+F1 Score: 0.5865
+Recall: 0.4174
+Precision: 0.9861
+[False stats]
+F1 Score: 0.1907
+Recall: 0.9216
+Precision: 0.1063
+
+[MODEL NAME: model_boolq_27.ckpt]
+[Testing: (companies, Layer 27)]
+Test loss: 0.7793
+Test acc: 0.5067
+[True stats]
+F1 Score: 0.6602
+Recall: 0.5832
+Precision: 0.7606
+[False stats]
+F1 Score: 0.1003
+Recall: 0.1542
+Precision: 0.0743
+
+[MODEL NAME: model_boolq_27.ckpt]
+[Testing: (elements, Layer 27)]
+Test loss: 0.7948
+Test acc: 0.4656
+[True stats]
+F1 Score: 0.5535
+Recall: 0.4451
+Precision: 0.7316
+[False stats]
+F1 Score: 0.3347
+Recall: 0.5252
+Precision: 0.2456
+
+[MODEL NAME: model_boolq_27.ckpt]
+[Testing: (facts, Layer 27)]
+Test loss: 0.7842
+Test acc: 0.4796
+[True stats]
+F1 Score: 0.6008
+Recall: 0.4724
+Precision: 0.8247
+[False stats]
+F1 Score: 0.2529
+Recall: 0.5143
+Precision: 0.1677
+
+[MODEL NAME: model_boolq_27.ckpt]
+[Testing: (inventions, Layer 27)]
+Test loss: 0.8024
+Test acc: 0.4726
+[True stats]
+F1 Score: 0.5933
+Recall: 0.4648
+Precision: 0.8200
+[False stats]
+F1 Score: 0.2500
+Recall: 0.5099
+Precision: 0.1656
+
+[MODEL NAME: model_boolq_27.ckpt]
+[Testing: (generated, Layer 27)]
+Test loss: 0.7444
+Test acc: 0.5959
+[True stats]
+F1 Score: 0.6264
+Recall: 0.5533
+Precision: 0.7217
+[False stats]
+F1 Score: 0.5600
+Recall: 0.6632
+Precision: 0.4846
+
+[MODEL NAME: model_boolq_27.ckpt]
+[Testing: (cities, Layer 27)]
+Test loss: 0.8529
+Test acc: 0.4527
+[True stats]
+F1 Score: 0.5865
+Recall: 0.4174
+Precision: 0.9861
+[False stats]
+F1 Score: 0.1907
+Recall: 0.9216
+Precision: 0.1063
+
+[MODEL NAME: model_boolq_27.ckpt]
+[Testing: (animals, Layer 27)]
+Test loss: 0.8281
+Test acc: 0.4831
+[True stats]
+F1 Score: 0.5907
+Recall: 0.5074
+Precision: 0.7068
+[False stats]
+F1 Score: 0.2988
+Recall: 0.4157
+Precision: 0.2332
+
+[MODEL NAME: model_boolq_passage_27.ckpt]
+[Testing: (animals, Layer 27)]
+Test loss: 0.7578
+Test acc: 0.5119
+[True stats]
+F1 Score: 0.5947
+Recall: 0.4872
+Precision: 0.7632
+[False stats]
+F1 Score: 0.3865
+Recall: 0.5805
+Precision: 0.2897
+
+[MODEL NAME: model_boolq_passage_27.ckpt]
+[Testing: (cities, Layer 27)]
+Test loss: 0.7279
+Test acc: 0.6310
+[True stats]
+F1 Score: 0.7671
+Recall: 0.6534
+Precision: 0.9287
+[False stats]
+F1 Score: 0.1122
+Recall: 0.3333
+Precision: 0.0675
+
+[MODEL NAME: model_boolq_passage_27.ckpt]
+[Testing: (companies, Layer 27)]
+Test loss: 0.6020
+Test acc: 0.7633
+[True stats]
+F1 Score: 0.8480
+Recall: 0.8032
+Precision: 0.8980
+[False stats]
+F1 Score: 0.4662
+Recall: 0.5794
+Precision: 0.3899
+
+[MODEL NAME: model_boolq_passage_27.ckpt]
+[Testing: (elements, Layer 27)]
+Test loss: 0.7796
+Test acc: 0.4570
+[True stats]
+F1 Score: 0.4734
+Recall: 0.3280
+Precision: 0.8502
+[False stats]
+F1 Score: 0.4395
+Recall: 0.8319
+Precision: 0.2986
+
+[MODEL NAME: model_boolq_passage_27.ckpt]
+[Testing: (facts, Layer 27)]
+Test loss: 0.6522
+Test acc: 0.6672
+[True stats]
+F1 Score: 0.7577
+Recall: 0.6280
+Precision: 0.9551
+[False stats]
+F1 Score: 0.4687
+Recall: 0.8571
+Precision: 0.3226
+
+[MODEL NAME: model_boolq_passage_27.ckpt]
+[Testing: (inventions, Layer 27)]
+Test loss: 0.7302
+Test acc: 0.5080
+[True stats]
+F1 Score: 0.5938
+Recall: 0.4345
+Precision: 0.9375
+[False stats]
+F1 Score: 0.3763
+Recall: 0.8609
+Precision: 0.2407
+
+[MODEL NAME: model_boolq_passage_27.ckpt]
+[Testing: (generated, Layer 27)]
+Test loss: 0.6732
+Test acc: 0.6327
+[True stats]
+F1 Score: 0.6087
+Recall: 0.4667
+Precision: 0.8750
+[False stats]
+F1 Score: 0.6538
+Recall: 0.8947
+Precision: 0.5152
+
+[MODEL NAME: model_boolq_19.ckpt]
+[Testing: (animals, Layer 19)]
+Test loss: 0.8361
+Test acc: 0.5000
+[True stats]
+F1 Score: 0.6395
+Recall: 0.6032
+Precision: 0.6804
+[False stats]
+F1 Score: 0.1845
+Recall: 0.2135
+Precision: 0.1624
+
+[MODEL NAME: model_boolq_19.ckpt]
+[Testing: (cities, Layer 19)]
+Test loss: 0.6326
+Test acc: 0.5007
+[True stats]
+F1 Score: 0.6410
+Recall: 0.4797
+Precision: 0.9658
+[False stats]
+F1 Score: 0.1802
+Recall: 0.7767
+Precision: 0.1019
+
+[MODEL NAME: model_boolq_19.ckpt]
+[Testing: (companies, Layer 19)]
+Test loss: 0.7649
+Test acc: 0.5000
+[True stats]
+F1 Score: 0.6641
+Recall: 0.6014
+Precision: 0.7412
+[False stats]
+F1 Score: 0.0228
+Recall: 0.0327
+Precision: 0.0175
+
+[MODEL NAME: model_boolq_19.ckpt]
+[Testing: (elements, Layer 19)]
+Test loss: 0.7864
+Test acc: 0.5000
+[True stats]
+F1 Score: 0.6409
+Recall: 0.5980
+Precision: 0.6905
+[False stats]
+F1 Score: 0.1770
+Recall: 0.2119
+Precision: 0.1520
+
+[MODEL NAME: model_boolq_19.ckpt]
+[Testing: (facts, Layer 19)]
+Test loss: 0.6826
+Test acc: 0.5383
+[True stats]
+F1 Score: 0.6941
+Recall: 0.6319
+Precision: 0.7698
+[False stats]
+F1 Score: 0.0598
+Recall: 0.0857
+Precision: 0.0459
+
+[MODEL NAME: model_boolq_19.ckpt]
+[Testing: (inventions, Layer 19)]
+Test loss: 0.6704
+Test acc: 0.5354
+[True stats]
+F1 Score: 0.6838
+Recall: 0.6069
+Precision: 0.7829
+[False stats]
+F1 Score: 0.1247
+Recall: 0.1921
+Precision: 0.0924
+
+[MODEL NAME: model_boolq_19.ckpt]
+[Testing: (generated, Layer 19)]
+Test loss: 0.8043
+Test acc: 0.4816
+[True stats]
+F1 Score: 0.6254
+Recall: 0.7067
+Precision: 0.5608
+[False stats]
+F1 Score: 0.1589
+Recall: 0.1263
+Precision: 0.2143
+
+[MODEL NAME: model_boolq_passage_19.ckpt]
+[Testing: (animals, Layer 19)]
+Test loss: 0.8680
+Test acc: 0.4048
+[True stats]
+F1 Score: 0.3988
+Recall: 0.2686
+Precision: 0.7743
+[False stats]
+F1 Score: 0.4106
+Recall: 0.7828
+Precision: 0.2783
+
+[MODEL NAME: model_boolq_passage_19.ckpt]
+[Testing: (cities, Layer 19)]
+Test loss: 1.0168
+Test acc: 0.2010
+[True stats]
+F1 Score: 0.2469
+Recall: 0.1410
+Precision: 0.9948
+[False stats]
+F1 Score: 0.1490
+Recall: 0.9903
+Precision: 0.0806
+
+[MODEL NAME: model_boolq_passage_19.ckpt]
+[Testing: (companies, Layer 19)]
+Test loss: 0.7631
+Test acc: 0.4700
+[True stats]
+F1 Score: 0.5766
+Recall: 0.4391
+Precision: 0.8391
+[False stats]
+F1 Score: 0.2918
+Recall: 0.6121
+Precision: 0.1915
+
+[MODEL NAME: model_boolq_passage_19.ckpt]
+[Testing: (elements, Layer 19)]
+Test loss: 0.9206
+Test acc: 0.3570
+[True stats]
+F1 Score: 0.3079
+Recall: 0.1916
+Precision: 0.7824
+[False stats]
+F1 Score: 0.3996
+Recall: 0.8432
+Precision: 0.2618
+
+[MODEL NAME: model_boolq_passage_19.ckpt]
+[Testing: (facts, Layer 19)]
+Test loss: 0.8181
+Test acc: 0.4095
+[True stats]
+F1 Score: 0.4645
+Recall: 0.3091
+Precision: 0.9345
+[False stats]
+F1 Score: 0.3418
+Recall: 0.8952
+Precision: 0.2112
+
+[MODEL NAME: model_boolq_passage_19.ckpt]
+[Testing: (inventions, Layer 19)]
+Test loss: 0.9221
+Test acc: 0.4121
+[True stats]
+F1 Score: 0.4685
+Recall: 0.3131
+Precision: 0.9303
+[False stats]
+F1 Score: 0.3423
+Recall: 0.8874
+Precision: 0.2120
+
+[MODEL NAME: model_boolq_passage_19.ckpt]
+[Testing: (generated, Layer 19)]
+Test loss: 0.7960
+Test acc: 0.5143
+[True stats]
+F1 Score: 0.3959
+Recall: 0.2600
+Precision: 0.8298
+[False stats]
+F1 Score: 0.5939
+Recall: 0.9158
+Precision: 0.4394
+
+[MODEL NAME: model_boolq_23.ckpt]
+[Testing: (animals, Layer 23)]
+Test loss: 0.9168
+Test acc: 0.5040
+[True stats]
+F1 Score: 0.6366
+Recall: 0.5911
+Precision: 0.6898
+[False stats]
+F1 Score: 0.2187
+Recall: 0.2622
+Precision: 0.1877
+
+[MODEL NAME: model_boolq_23.ckpt]
+[Testing: (cities, Layer 23)]
+Test loss: 0.8024
+Test acc: 0.4993
+[True stats]
+F1 Score: 0.6407
+Recall: 0.4801
+Precision: 0.9630
+[False stats]
+F1 Score: 0.1742
+Recall: 0.7549
+Precision: 0.0985
+
+[MODEL NAME: model_boolq_23.ckpt]
+[Testing: (companies, Layer 23)]
+Test loss: 0.9595
+Test acc: 0.5000
+[True stats]
+F1 Score: 0.6641
+Recall: 0.6014
+Precision: 0.7412
+[False stats]
+F1 Score: 0.0228
+Recall: 0.0327
+Precision: 0.0175
+
+[MODEL NAME: model_boolq_23.ckpt]
+[Testing: (elements, Layer 23)]
+Test loss: 0.9153
+Test acc: 0.4946
+[True stats]
+F1 Score: 0.6345
+Recall: 0.5879
+Precision: 0.6892
+[False stats]
+F1 Score: 0.1812
+Recall: 0.2203
+Precision: 0.1538
+
+[MODEL NAME: model_boolq_23.ckpt]
+[Testing: (facts, Layer 23)]
+Test loss: 0.8233
+Test acc: 0.5122
+[True stats]
+F1 Score: 0.6598
+Recall: 0.5709
+Precision: 0.7817
+[False stats]
+F1 Score: 0.1383
+Recall: 0.2286
+Precision: 0.0992
+
+[MODEL NAME: model_boolq_23.ckpt]
+[Testing: (inventions, Layer 23)]
+Test loss: 0.8532
+Test acc: 0.5263
+[True stats]
+F1 Score: 0.6745
+Recall: 0.5947
+Precision: 0.7790
+[False stats]
+F1 Score: 0.1300
+Recall: 0.2026
+Precision: 0.0957
+
+[MODEL NAME: model_boolq_23.ckpt]
+[Testing: (generated, Layer 23)]
+Test loss: 0.8503
+Test acc: 0.4980
+[True stats]
+F1 Score: 0.6215
+Recall: 0.6733
+Precision: 0.5771
+[False stats]
+F1 Score: 0.2545
+Recall: 0.2211
+Precision: 0.3000
+
+[MODEL NAME: model_boolq_23.ckpt]
+[Testing: (boolq_passage, Layer 23)]
+Test loss: 0.7456
+Test acc: 0.5431
+[True stats]
+F1 Score: 0.6216
+Recall: 0.5468
+Precision: 0.7201
+[False stats]
+F1 Score: 0.4236
+Recall: 0.5351
+Precision: 0.3506
+
+[MODEL NAME: model_boolq_23.ckpt]
+[Testing: (boolq, Layer 23)]
+Test loss: 0.6680
+Test acc: 0.5859
+[True stats]
+F1 Score: 0.5795
+Recall: 0.4587
+Precision: 0.7867
+[False stats]
+F1 Score: 0.5922
+Recall: 0.7953
+Precision: 0.4717
+
+[MODEL NAME: model_all_19.ckpt]
+[Testing: (boolq, Layer 19)]
+Test loss: 1.1280
+Test acc: 0.4648
+[True stats]
+F1 Score: 0.3406
+Recall: 0.2222
+Precision: 0.7290
+[False stats]
+F1 Score: 0.5497
+Recall: 0.8641
+Precision: 0.4030
+
+[MODEL NAME: model_all_19.ckpt]
+[Testing: (boolq_passage, Layer 19)]
+Test loss: 1.2379
+Test acc: 0.4820
+[True stats]
+F1 Score: 0.5565
+Recall: 0.4741
+Precision: 0.6736
+[False stats]
+F1 Score: 0.3772
+Recall: 0.4990
+Precision: 0.3032
+
+[MODEL NAME: single_all_15.ckpt.ckpt]
+[Testing: (generated, Layer 15)]
+Test loss: 0.5127
+Test acc: 0.7633
+[True stats]
+F1 Score: 0.8187
+Recall: 0.8733
+Precision: 0.7706
+[False stats]
+F1 Score: 0.6588
+Recall: 0.5895
+Precision: 0.7467
+
+[MODEL NAME: single_all_19.ckpt.ckpt]
+[Testing: (generated, Layer 19)]
+Test loss: 0.5239
+Test acc: 0.7265
+[True stats]
+F1 Score: 0.7964
+Recall: 0.8733
+Precision: 0.7318
+[False stats]
+F1 Score: 0.5839
+Recall: 0.4947
+Precision: 0.7121
+
+[MODEL NAME: single_all_23.ckpt.ckpt]
+[Testing: (generated, Layer 23)]
+Test loss: 0.4826
+Test acc: 0.7837
+[True stats]
+F1 Score: 0.8349
+Recall: 0.8933
+Precision: 0.7836
+[False stats]
+F1 Score: 0.6864
+Recall: 0.6105
+Precision: 0.7838
+
+[MODEL NAME: single_all_27.ckpt.ckpt]
+[Testing: (generated, Layer 27)]
+Test loss: 0.5304
+Test acc: 0.7510
+[True stats]
+F1 Score: 0.8157
+Recall: 0.9000
+Precision: 0.7459
+[False stats]
+F1 Score: 0.6164
+Recall: 0.5158
+Precision: 0.7656
+
+[MODEL NAME: single_all_equal_15.ckpt.ckpt]
+[Testing: (generated, Layer 15)]
+Test loss: 0.5342
+Test acc: 0.7061
+[True stats]
+F1 Score: 0.7313
+Recall: 0.6533
+Precision: 0.8305
+[False stats]
+F1 Score: 0.6757
+Recall: 0.7895
+Precision: 0.5906
+
+[MODEL NAME: single_all_equal_19.ckpt.ckpt]
+[Testing: (generated, Layer 19)]
+Test loss: 0.4985
+Test acc: 0.7469
+[True stats]
+F1 Score: 0.7832
+Recall: 0.7467
+Precision: 0.8235
+[False stats]
+F1 Score: 0.6961
+Recall: 0.7474
+Precision: 0.6514
+
+[MODEL NAME: single_all_equal_23.ckpt.ckpt]
+[Testing: (generated, Layer 23)]
+Test loss: 0.5237
+Test acc: 0.7143
+[True stats]
+F1 Score: 0.7287
+Recall: 0.6267
+Precision: 0.8704
+[False stats]
+F1 Score: 0.6983
+Recall: 0.8526
+Precision: 0.5912
+
+[MODEL NAME: single_all_equal_27.ckpt.ckpt]
+[Testing: (generated, Layer 27)]
+Test loss: 0.4992
+Test acc: 0.7347
+[True stats]
+F1 Score: 0.7719
+Recall: 0.7333
+Precision: 0.8148
+[False stats]
+F1 Score: 0.6829
+Recall: 0.7368
+Precision: 0.6364
+
+[MODEL NAME: single_all_equal_27.ckpt.ckpt]
+[Testing: (all, Layer 27)]
+Test loss: 0.4237
+Test acc: 0.7750
+[True stats]
+F1 Score: 0.8470
+Recall: 0.7564
+Precision: 0.9622
+[False stats]
+F1 Score: 0.5755
+Recall: 0.8617
+Precision: 0.4320
+
+[MODEL NAME: single_all_equal_27.ckpt.ckpt]
+[Testing: (generated, Layer 27)]
+Test loss: 0.4992
+Test acc: 0.7347
+[True stats]
+F1 Score: 0.7719
+Recall: 0.7333
+Precision: 0.8148
+[False stats]
+F1 Score: 0.6829
+Recall: 0.7368
+Precision: 0.6364
+
+[MODEL NAME: single_boolq_15.ckpt.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 0.6370
+Test acc: 0.6339
+[True stats]
+F1 Score: 0.7448
+Recall: 0.8602
+Precision: 0.6568
+[False stats]
+F1 Score: 0.3526
+Recall: 0.2631
+Precision: 0.5344
+
+[MODEL NAME: single_boolq_19.ckpt.ckpt]
+[Testing: (boolq, Layer 19)]
+Test loss: 0.6382
+Test acc: 0.6306
+[True stats]
+F1 Score: 0.7227
+Recall: 0.7738
+Precision: 0.6779
+[False stats]
+F1 Score: 0.4469
+Recall: 0.3948
+Precision: 0.5148
+
+[MODEL NAME: single_boolq_23.ckpt.ckpt]
+[Testing: (boolq, Layer 23)]
+Test loss: 0.6272
+Test acc: 0.6459
+[True stats]
+F1 Score: 0.7420
+Recall: 0.8186
+Precision: 0.6785
+[False stats]
+F1 Score: 0.4357
+Recall: 0.3617
+Precision: 0.5478
+
+[MODEL NAME: single_boolq_27.ckpt.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.6326
+Test acc: 0.6190
+[True stats]
+F1 Score: 0.6772
+Recall: 0.6442
+Precision: 0.7138
+[False stats]
+F1 Score: 0.5351
+Recall: 0.5778
+Precision: 0.4983
+
+[MODEL NAME: single_boolq_equal_15.ckpt.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 0.6716
+Test acc: 0.5774
+[True stats]
+F1 Score: 0.5928
+Recall: 0.4953
+Precision: 0.7381
+[False stats]
+F1 Score: 0.5607
+Recall: 0.7119
+Precision: 0.4625
+
+[MODEL NAME: single_boolq_equal_19.ckpt.ckpt]
+[Testing: (boolq, Layer 19)]
+Test loss: 0.6787
+Test acc: 0.5786
+[True stats]
+F1 Score: 0.5925
+Recall: 0.4926
+Precision: 0.7433
+[False stats]
+F1 Score: 0.5636
+Recall: 0.7201
+Precision: 0.4631
+
+[MODEL NAME: single_boolq_equal_23.ckpt.ckpt]
+[Testing: (boolq, Layer 23)]
+Test loss: 0.6810
+Test acc: 0.5890
+[True stats]
+F1 Score: 0.6149
+Recall: 0.5275
+Precision: 0.7370
+[False stats]
+F1 Score: 0.5593
+Recall: 0.6901
+Precision: 0.4702
+
+[MODEL NAME: single_boolq_equal_27.ckpt.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.6616
+Test acc: 0.5969
+[True stats]
+F1 Score: 0.6331
+Recall: 0.5604
+Precision: 0.7274
+[False stats]
+F1 Score: 0.5529
+Recall: 0.6567
+Precision: 0.4774
+
+[MODEL NAME: single_boolq_ref_15.ckpt.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 0.6713
+Test acc: 0.6211
+[True stats]
+F1 Score: 0.7661
+Recall: 0.9990
+Precision: 0.6212
+[False stats]
+F1 Score: 0.0032
+Recall: 0.0016
+Precision: 0.5000
+
+[MODEL NAME: single_boolq_ref_19.ckpt.ckpt]
+[Testing: (boolq, Layer 19)]
+Test loss: 0.6881
+Test acc: 0.5933
+[True stats]
+F1 Score: 0.6988
+Recall: 0.7586
+Precision: 0.6478
+[False stats]
+F1 Score: 0.3738
+Recall: 0.3212
+Precision: 0.4471
+
+[MODEL NAME: single_boolq_ref_23.ckpt.ckpt]
+[Testing: (boolq, Layer 23)]
+Test loss: 0.6984
+Test acc: 0.5670
+[True stats]
+F1 Score: 0.6408
+Recall: 0.6209
+Precision: 0.6619
+[False stats]
+F1 Score: 0.4550
+Recall: 0.4782
+Precision: 0.4339
+
+[MODEL NAME: single_boolq_ref_27.ckpt.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.6829
+Test acc: 0.5957
+[True stats]
+F1 Score: 0.7056
+Recall: 0.7807
+Precision: 0.6436
+[False stats]
+F1 Score: 0.3551
+Recall: 0.2933
+Precision: 0.4499
+
+[MODEL NAME: single_boolq_ref_equal_15.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 0.7039
+Test acc: 0.5346
+[True stats]
+F1 Score: 0.5720
+Recall: 0.5007
+Precision: 0.6669
+[False stats]
+F1 Score: 0.4899
+Recall: 0.5900
+Precision: 0.4189
+
+[MODEL NAME: single_boolq_ref_equal_19.ckpt]
+[Testing: (boolq, Layer 19)]
+Test loss: 0.7285
+Test acc: 0.4024
+[True stats]
+F1 Score: 0.2385
+Recall: 0.1504
+Precision: 0.5752
+[False stats]
+F1 Score: 0.5083
+Recall: 0.8172
+Precision: 0.3689
+
+[MODEL NAME: single_boolq_ref_equal_23.ckpt]
+[Testing: (boolq, Layer 23)]
+Test loss: 0.6719
+Test acc: 0.6073
+[True stats]
+F1 Score: 0.7240
+Recall: 0.8279
+Precision: 0.6432
+[False stats]
+F1 Score: 0.3199
+Recall: 0.2443
+Precision: 0.4632
+
+[MODEL NAME: single_boolq_ref_equal_27.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.7381
+Test acc: 0.4257
+[True stats]
+F1 Score: 0.3065
+Recall: 0.2045
+Precision: 0.6112
+[False stats]
+F1 Score: 0.5099
+Recall: 0.7873
+Precision: 0.3771
+
+[MODEL NAME: single_boolq_ref_equal_27.ckpt]
+[Testing: (boolq, Layer 27)]
+Test loss: 0.7381
+Test acc: 0.4257
+[True stats]
+F1 Score: 0.3065
+Recall: 0.2045
+Precision: 0.6112
+[False stats]
+F1 Score: 0.5099
+Recall: 0.7873
+Precision: 0.3771
+
+[MODEL NAME: single_all_15.ckpt.ckpt]
+[Testing: (boolq, Layer 15)]
+Test loss: 0.8407
+Test acc: 0.4765
+[True stats]
+F1 Score: 0.4185
+Recall: 0.3033
+Precision: 0.6747
+[False stats]
+F1 Score: 0.5239
+Recall: 0.7603
+Precision: 0.3997
+
+[MODEL NAME: single_all_19.ckpt.ckpt]
+[MODEL NAME: single_all_15.ckpt.ckpt]
+[MODEL NAME: single_all_23.ckpt.ckpt]
+[MODEL NAME: single_all_27.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_15.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_15.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_19.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_23.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_27.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_equal_15.ckpt]
+[MODEL NAME: single_boolq_ref_equal_19.ckpt]
+[MODEL NAME: single_boolq_ref_equal_23.ckpt]
+[MODEL NAME: single_boolq_ref_equal_27.ckpt]
+[MODEL NAME: single_boolq_ref_equal_23.ckpt]
+[MODEL NAME: single_boolq_ref_equal_19.ckpt]
+[MODEL NAME: single_boolq_ref_equal_15.ckpt]
+[MODEL NAME: single_all_15.ckpt.ckpt]
+[MODEL NAME: single_all_19.ckpt.ckpt]
+[MODEL NAME: single_all_23.ckpt.ckpt]
+[MODEL NAME: single_all_27.ckpt.ckpt]
+[MODEL NAME: single_all_equal_15.ckpt.ckpt]
+[MODEL NAME: single_all_equal_19.ckpt.ckpt]
+[MODEL NAME: single_all_equal_23.ckpt.ckpt]
+[MODEL NAME: single_all_equal_27.ckpt.ckpt]
+[MODEL NAME: single_all_equal_15.ckpt.ckpt]
+[MODEL NAME: single_all_equal_19.ckpt.ckpt]
+[MODEL NAME: single_all_equal_23.ckpt.ckpt]
+[MODEL NAME: single_all_equal_27.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_15.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_equal_15.ckpt]
+[MODEL NAME: single_boolq_ref_equal_19.ckpt]
+[MODEL NAME: single_boolq_ref_equal_23.ckpt]
+[MODEL NAME: single_boolq_ref_equal_27.ckpt]
+[MODEL NAME: single_boolq_ref_equal_23.ckpt]
+[MODEL NAME: single_boolq_ref_equal_23.ckpt]
+[MODEL NAME: single_boolq_ref_equal_23.ckpt]
+[MODEL NAME: single_boolq_15.ckpt.ckpt]
+[MODEL NAME: single_boolq_19.ckpt.ckpt]
+[MODEL NAME: single_boolq_23.ckpt.ckpt]
+[MODEL NAME: single_boolq_27.ckpt.ckpt]
+[MODEL NAME: single_boolq_equal_15.ckpt.ckpt]
+[MODEL NAME: single_boolq_equal_19.ckpt.ckpt]
+[MODEL NAME: single_boolq_equal_23.ckpt.ckpt]
+[MODEL NAME: single_boolq_equal_27.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_15.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_19.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_19.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_19.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_23.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_27.ckpt.ckpt]
+[MODEL NAME: single_boolq_ref_equal_15.ckpt]
+[MODEL NAME: single_boolq_ref_equal_19.ckpt]
+[MODEL NAME: single_boolq_ref_equal_23.ckpt]
+[MODEL NAME: single_boolq_ref_equal_27.ckpt]
+[MODEL NAME: model.ckpt]
+[MODEL NAME: single_all_19.ckpt.ckpt]
