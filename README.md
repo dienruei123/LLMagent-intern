@@ -197,3 +197,5 @@ python -m domain_adaptation_test
 
 ## Notes
 For other Details, you could refer to `script.py` for more bash prompt usages.
+
+Meeting discussions: https://www.notion.so/6e01335cd6ab4f6481bd70de406565c6
